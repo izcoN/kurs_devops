@@ -1,3 +1,3 @@
 # kurs_devops
 
-branch develop
+branch hotfix
